@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4bf04898f9fdb44af0255a45d1b781, type: 3}
+  m_Name: Ragnarok
+  m_EditorClassIdentifier: 
+  sName: Ragnarok
+  sSprite: {fileID: 21300000, guid: 370be02c4b1c29944b9caa4269ec7207, type: 3}
+  sSound: {fileID: 0}
+  coolDown: 5
+  range: 6
+  damage: 10
+  areaDamage: {fileID: 1805736632176482, guid: eb03b0e882332c34db666a41eccd15c8, type: 2}
+  duration: 5
+  radius: 15

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b6ea916e8fbfa49988395c227cceea, type: 3}
+  m_Name: Snow Meteor
+  m_EditorClassIdentifier: 
+  sName: Snow Meteor
+  sSprite: {fileID: 21300000, guid: 22f45c92a9103be4c9d5d31b745bcd3c, type: 3}
+  sSound: {fileID: 0}
+  coolDown: 5
+  range: 10
+  timeToDestroy: 5
+  damage: 20
+  radius: 10
+  areaDamage: {fileID: 1335478245800810, guid: 47f84516cc500f14982b6c932e39d54e, type: 2}

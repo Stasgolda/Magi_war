@@ -1,0 +1,277 @@
+<aars>
+  <explodeData>
+    <aar>com.android.support.support-annotations-25.2.0</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-annotations-25.2.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-compat-25.2.0</aar>
+    <modificationTime>2018-10-19T22:19:52.5707588+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-ui-25.2.0</aar>
+    <modificationTime>2018-10-19T22:19:52.6874306+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-ui-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-utils-25.2.0</aar>
+    <modificationTime>2018-10-19T22:19:52.798594+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-utils-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-fragment-25.2.0</aar>
+    <modificationTime>2018-10-19T22:19:52.9563245+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-fragment-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-media-compat-25.2.0</aar>
+    <modificationTime>2018-10-19T22:19:53.0584786+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-media-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-v4-25.2.0</aar>
+    <modificationTime>2018-10-19T22:19:53.140596+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-v4-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-auth-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:53.2731383+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-auth-api-phone-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:53.3617695+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-api-phone-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-auth-api-phone-license-11.6.2</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.android.gms.play-services-auth-api-phone-license-11.6.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-auth-base-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:53.5610624+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-base-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-auth-base-license-11.6.2</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.android.gms.play-services-auth-base-license-11.6.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-base-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:53.8229472+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-base-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-base-license-11.6.2</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.android.gms.play-services-base-license-11.6.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:54.083831+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-license-11.6.2</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.android.gms.play-services-basement-license-11.6.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-drive-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:54.346219+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-drive-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-drive-license-11.6.2</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.android.gms.play-services-drive-license-11.6.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-games-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:54.5745547+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-games-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-games-license-11.6.2</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.android.gms.play-services-games-license-11.6.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-nearby-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:54.7773514+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-nearby-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-nearby-license-11.6.2</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.android.gms.play-services-nearby-license-11.6.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-tasks-11.6.2</aar>
+    <modificationTime>2018-10-19T22:19:54.9996777+03:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-11.6.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-tasks-license-11.6.2</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.android.gms.play-services-tasks-license-11.6.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.games.gpgs-plugin-support-0.9.50</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.turoggaming.magiwar</bundleId>
+    <path>Assets/Plugins/Android\com.google.games.gpgs-plugin-support-0.9.50</path>
+    <targetAbi>fat</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>

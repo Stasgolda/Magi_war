@@ -1,0 +1,8 @@
+lastUpgrade=00950
+proj.pluginVersion=0.9.50
+proj.AppId=105600536112
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e105600536112%3c%2fstring%3e%0d%0a++%3c%21--+achievement+First+start+--%3e%0d%0a++%3cstring+name%3d%22achievement_first_start%22+translatable%3d%22false%22%3eCgkIsJyhsokDEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+First+kill+--%3e%0d%0a++%3cstring+name%3d%22achievement_first_kill%22+translatable%3d%22false%22%3eCgkIsJyhsokDEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+2+lvl+--%3e%0d%0a++%3cstring+name%3d%22achievement_2_lvl%22+translatable%3d%22false%22%3eCgkIsJyhsokDEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+3+lvl+--%3e%0d%0a++%3cstring+name%3d%22achievement_3_lvl%22+translatable%3d%22false%22%3eCgkIsJyhsokDEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+10+lvl+--%3e%0d%0a++%3cstring+name%3d%22achievement_10_lvl%22+translatable%3d%22false%22%3eCgkIsJyhsokDEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+First+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_first%22+translatable%3d%22false%22%3eCgkIsJyhsokDEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=105600536112-2uhf28sgcpqnqhrr8kmj2uqnr3jlhehu.apps.googleusercontent.com
+android.SetupDone=true

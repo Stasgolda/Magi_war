@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameHelper.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameHelper.cs" Line="78" Column="28" />
+      <File FileName="Assets\Scripts\SceneLoading.cs" Line="33" Column="10" />
+      <File FileName="Assets\Scripts\SkillBuilder.cs" Line="16" Column="13" />
+      <File FileName="Assets\Scripts\Skills\SkillMain\SkillCoolDown.cs" Line="18" Column="29" />
+      <File FileName="Assets\Scripts\MainMenuNavigation.cs" Line="346" Column="27" />
+      <File FileName="Assets\Scripts\Player\AnimationControll.cs" Line="46" Column="10" />
+      <File FileName="Assets\Scripts\Player\CharacterMechanics.cs" Line="86" Column="10" />
+      <File FileName="Assets\Scripts\GameMode\GameMode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioManager.cs" Line="15" Column="22" />
+      <File FileName="Assets\Scripts\Player\cameraFollow.cs" Line="12" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,2 @@
+F:\UnityProjects\smartphone-moba-prototype (2)\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\UnityProjects\smartphone-moba-prototype\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache

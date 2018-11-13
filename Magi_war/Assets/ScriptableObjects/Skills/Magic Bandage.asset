@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d33077306cc1f9e41957d5b65f255d4f, type: 3}
+  m_Name: Magic Bandage
+  m_EditorClassIdentifier: 
+  sName: Magic Bandage
+  sSprite: {fileID: 21300000, guid: 4d2afc11ba8e2d448aeb10b06cd324ae, type: 3}
+  sSound: {fileID: 0}
+  coolDown: 20
+  range: 0
+  power: 200
+  areaDamage: {fileID: 1169583308729356, guid: 0907c0e7c77d32c40916dd8d85a75dfb, type: 2}
